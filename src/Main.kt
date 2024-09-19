@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello")
+    val cpu = (1..10).random()
 }
